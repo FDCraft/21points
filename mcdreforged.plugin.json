@@ -1,0 +1,13 @@
+{
+	"id": "21points",
+	"version": "1.0.0",
+	"name": "21 points",
+	"description": {
+		"en_us": "Play 21 points in Minecraft!",
+		"zh_cn": "在MC中玩21点！"
+	},
+	"author": [
+		"Polaris_Light"
+	],
+	"link": "https://github.com/FDCraft/joinMOTD-FDCraft"
+}
