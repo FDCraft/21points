@@ -1,6 +1,6 @@
 {
-	"id": "21points",
-	"version": "1.0.0",
+	"id": "twentyonepoints",
+	"version": "1.0.1",
 	"name": "21 points",
 	"description": {
 		"en_us": "Play 21 points in Minecraft!",
@@ -9,5 +9,5 @@
 	"author": [
 		"Polaris_Light"
 	],
-	"link": "https://github.com/FDCraft/joinMOTD-FDCraft"
+	"link": "https://github.com/FDCraft/21points"
 }

@@ -198,6 +198,7 @@ def on_load(server: PluginServerInterface, old):
     room = Room()
     server.register_help_message(Prefix, '21点小游戏')
     server.register_command(Literal(Prefix).requires(lambda src: src.is_player).
+                        runs(help).
                         then(Literal('help').runs(help)).                            
                         then(Literal('join').runs(join)).
                         then(Literal('leave').runs(leave)).
